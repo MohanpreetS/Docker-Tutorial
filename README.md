@@ -1,1 +1,2 @@
-A simple Animated Login/SignUp page concept I saw on FlutterWay on Youtube
+# Docker Tutorial
+This is a sandbox tutorial with dummy projects being deployed on docker for practice.
